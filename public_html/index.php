@@ -49,9 +49,7 @@ and open the template in the editor.
                     
                     // hide searchresults
                     document.getElementById("livesearch").innerHTML = "";
-                    document.getElementById("livesearch").style.border = "0px";
-                    
-                    
+                    document.getElementById("livesearch").style.border = "0px"; 
                 }
    
             </script>
